@@ -49,7 +49,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - `<img>` no necesita cierre y lleva los atributos `src` y `alt`.
   - El atributo `alt` es muy importante para la accesibilidad.
   - `<a>` crea enlaces, y `href` indica a dónde llevan.
-- **Práctica**: [Clic para programar](PEGAR_PEN_L3) 👉 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/) 👉 **¡Comienza al instante!**
 
 ---
 
