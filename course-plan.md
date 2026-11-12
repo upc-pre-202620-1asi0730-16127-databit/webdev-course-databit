@@ -28,15 +28,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ---
 
-### Lección 2: Introducción a HTML (8 minutos)
+### Lección 2: Introducción a HTML (5 minutos)
 
 - **Descripción**: Aprende qué son las etiquetas, cómo es el esqueleto de toda página y crea tu primera página con títulos y párrafos.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L2)
+- **Enlace**: [Ver la lección](https://youtu.be/v6AxN1jFjhc)
 - **Conceptos clave**:
   - Un elemento es la etiqueta de apertura, el contenido y la etiqueta de cierre.
   - Toda página tiene `<html>`, `<head>` y `<body>`.
   - Usa `<h1>` a `<h6>` para títulos y `<p>` para párrafos. Usa un solo `<h1>` por página.
-- **Práctica**: [Clic para programar](PEGAR_PEN_L2) 👉 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/) 👉 **¡No necesitas registrarte!**
 
 ---
 
