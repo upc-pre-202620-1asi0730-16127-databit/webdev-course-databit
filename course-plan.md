@@ -28,7 +28,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ---
 
-### Lección 2: Introducción a HTML (8 minutos)
+### Lección 2: Introducción a HTML (5 minutos)
 
 - **Descripción**: Aprende qué son las etiquetas, cómo es el esqueleto de toda página y crea tu primera página con títulos y párrafos.
 - **Enlace**: [Ver la lección](https://youtu.be/v6AxN1jFjhc)
