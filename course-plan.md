@@ -40,16 +40,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ---
 
-### Lección 3: Añadir más elementos HTML (10 minutos)
+### Lección 3: Añadir más elementos HTML (9:30 minutos)
 
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página tenga más contenido.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L3)
+- **Enlace**: [Ver la lección](https://youtu.be/96LxnmsBPb4)
 - **Conceptos clave**:
   - `<ul>` crea listas con viñetas, `<ol>` crea listas numeradas y cada ítem va en `<li>`.
   - `<img>` no necesita cierre y lleva los atributos `src` y `alt`.
   - El atributo `alt` es muy importante para la accesibilidad.
   - `<a>` crea enlaces, y `href` indica a dónde llevan.
-- **Práctica**: [Clic para programar](PEGAR_PEN_L3) 👉 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/) 👉 **¡Comienza al instante!**
 
 ---
 
