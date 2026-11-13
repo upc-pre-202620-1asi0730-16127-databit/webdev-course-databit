@@ -1,0 +1,5 @@
+/* Corrección 3: el nombre de la clase es .perfil y cada declaración termina en punto y coma */
+.perfil {
+  background-color: white;
+  border: 3px solid purple;
+}
