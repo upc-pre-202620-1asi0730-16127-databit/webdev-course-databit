@@ -89,7 +89,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - Valida tu código con el [validador de W3C](https://validator.w3.org).
   - Sigue aprendiendo con [MDN Web Docs](https://developer.mozilla.org/es/).
 - **Práctica**: [Encuentra los errores](https://codepen.io/pen/define?data=%7B%22title%22%3A%20%22Lecci%C3%B3n%206%3A%20Caza%203%20errores%22%2C%20%22html%22%3A%20%22%3C%21--%20PR%C3%81CTICA%206%3A%20%C2%A1caza%203%20errores%21%20Este%20c%C3%B3digo%20tiene%20errores%20a%20prop%C3%B3sito.%20--%3E%5Cn%3C%21--%20Puedes%20usar%20esta%20imagen%3A%20https%3A%2F%2Fpicsum.photos%2Fid%2F237%2F200%2F200%20--%3E%5Cn%3Cdiv%20class%3D%5C%22perfil%5C%22%3E%5Cn%20%20%3Ch1%3EHola%2C%20soy%20Alex%5Cn%20%20%3Cp%3EMe%20gusta%20la%20m%C3%BAsica.%3C%2Fp%3E%5Cn%20%20%3Cimg%20src%3D%5C%22foto.jpg%5C%22%3E%5Cn%3C%2Fdiv%3E%22%2C%20%22css%22%3A%20%22%2F%2A%20PR%C3%81CTICA%206%3A%20encuentra%20los%20errores%20y%20corr%C3%ADgelos.%20%2A%2F%5Cn.perfl%20%7B%5Cn%20%20background-color%3A%20white%5Cn%20%20border%3A%203px%20solid%20purple%3B%5Cn%7D%22%2C%20%22editors%22%3A%20%22110%22%7D) 👉 **¡Comienza al instante!**
-- **Comparte tu Trabajo**: [Envía tu Creación](PEGAR_FORM_CREACION)
+- **Comparte tu Trabajo**: [Envía tu Creación](https://docs.google.com/forms/d/e/1FAIpQLSeXl3wUcuUKcgGjY_C6MWeQAIDhPIyzoMLVlzZNbQxFIPagUw/viewform)
 
 ---
 
@@ -110,7 +110,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Imagen de ejemplo para las prácticas**: [Avatar](https://picsum.photos/id/237/200/200)
 - **Validador**: [W3C Markup Validation Service](https://validator.w3.org)
 - **Documentación**: [MDN Web Docs](https://developer.mozilla.org/es/)
-- **Cuestionario**: [Pon a prueba tus conocimientos](PEGAR_FORM_CUESTIONARIO)
+- **Cuestionario**: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSfetrqI76yEcMVBmsMWP2E6yCkB_9hIFzY-5jppK5iVO2XC5A/viewform)
 - **Compartir**: #WebDevBeginners
 
 **¡Gracias por completar el curso!**
