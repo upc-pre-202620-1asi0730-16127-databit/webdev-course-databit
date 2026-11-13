@@ -79,12 +79,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ---
 
-### Lección 6: Consejos y Próximos Pasos (9 minutos)
+### Lección 6: Consejos y Próximos Pasos (4:30 minutos)
 
 - **Descripción**: Conoce los errores más comunes, los hábitos de quienes programan y qué aprender después.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L6)
+- **Enlace**: [Ver la lección](https://youtu.be/uS259xsMYPQ)
 - **Conceptos clave**:
-  - Revisa etiquetas sin cerrar, puntos y coma, nombres de clases y enlaces de imágenes.
+  - Revisa etiquetas sin cerrar, puntos y coma, nombres de clases, enlaces de imágenes y el atributo `alt`.
   - Usa sangría, comentarios y nombres claros, y prueba después de cada cambio.
   - Valida tu código con el [validador de W3C](https://validator.w3.org).
   - Sigue aprendiendo con [MDN Web Docs](https://developer.mozilla.org/es/).
