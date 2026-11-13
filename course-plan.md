@@ -19,7 +19,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 1: ¿Qué es el desarrollo web? (7 minutos)
 
 - **Descripción**: Descubre qué es un sitio web, dónde vive y por qué HTML y CSS son su esqueleto y su ropa. Conoce CodePen, tu taller en línea, y haz tu primer cambio.
-- **Enlace**: [Ver la lección](https://youtu.be/B91mMW147zY)
+- **Enlace**: [Ver la lección](https://youtu.be/0C92mJkD35k)
 - **Conceptos clave**:
   - Un sitio web es un conjunto de páginas conectadas que viven en servidores.
   - Tu navegador le pide la página al servidor usando una URL.
