@@ -69,13 +69,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 5: Crear una página web sencilla (14 minutos)
 
 - **Descripción**: Combina HTML y CSS paso a paso para construir tu página de perfil personal, depura errores y comparte tu resultado de forma segura.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L5)
+- **Enlace**: [Ver la lección](https://youtu.be/uj-i20YtJWs)
 - **Conceptos clave**:
   - `<div>` agrupa elementos en una caja.
   - Con `border-radius: 50%` una foto cuadrada se vuelve redonda.
   - `a:hover` cambia el estilo al pasar el cursor.
   - Por seguridad, no publiques tu dirección, teléfono ni datos privados.
-- **Proyecto Final**: [Crea tu Perfil](PEGAR_PEN_L5) 👉 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/) 👉 **¡Guarda y comparte!**
 
 ---
 

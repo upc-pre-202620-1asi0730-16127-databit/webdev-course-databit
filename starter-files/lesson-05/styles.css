@@ -1,0 +1,79 @@
+
+/* ==========================================
+   PROYECTO FINAL: MI PERFIL PERSONAL
+   ARCHIVO: style.css
+   ========================================== */
+
+
+/* 1. ESTILOS GENERALES */
+/* Selecciona toda la página con el selector body */
+/* Cambia el color de fondo con background-color */
+/* Modifica el tipo de letra con font-family */
+/* Elimina los márgenes predeterminados con margin */
+
+
+/* 2. CONTENEDOR DEL PERFIL */
+/* Selecciona la clase .perfil */
+/* Define un ancho con width */
+/* Centra el contenedor utilizando margin */
+/* Agrega espacio interno con padding */
+/* Cambia el color de fondo con background-color */
+/* Redondea las esquinas con border-radius */
+/* Agrega un borde utilizando border */
+
+
+/* 3. IMAGEN DE PERFIL */
+/* Selecciona la clase .foto */
+/* Modifica el ancho y alto con width y height */
+/* Redondea la imagen con border-radius */
+/* Ajusta la imagen con object-fit */
+
+
+/* 4. TÍTULO PRINCIPAL */
+/* Selecciona h1 */
+/* Cambia el color con color */
+/* Modifica el tamaño con font-size */
+/* Centra el texto con text-align */
+
+
+/* 5. SUBTÍTULOS */
+/* Selecciona h2 */
+/* Cambia el color y tamaño de los subtítulos */
+/* Agrega separación utilizando margin */
+
+
+/* 6. FRASE PERSONAL */
+/* Selecciona la clase .frase */
+/* Cambia el color del texto */
+/* Modifica el tamaño con font-size */
+/* Centra el texto con text-align */
+/* Puedes utilizar font-style para cambiar el estilo */
+
+
+/* 7. PÁRRAFOS */
+/* Selecciona los párrafos p */
+/* Modifica el tamaño y color del texto */
+/* Ajusta la separación entre líneas con line-height */
+
+
+/* 8. LISTAS */
+/* Personaliza las listas ul y ol */
+/* Modifica el espacio interno con padding */
+/* Cambia el color y tamaño del texto */
+/* Agrega separación entre los elementos li */
+
+
+/* 9. ENLACES */
+/* Selecciona los enlaces a */
+/* Cambia el color con color */
+/* Elimina el subrayado con text-decoration */
+
+
+/* 10. EFECTO AL PASAR EL CURSOR */
+/* Utiliza el selector :hover para los enlaces */
+/* Cambia el color cuando el cursor pase sobre ellos */
+
+
+/* ==========================================
+   FIN DE LOS ESTILOS
+   ========================================== */
