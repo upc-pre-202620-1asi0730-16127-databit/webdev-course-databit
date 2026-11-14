@@ -56,13 +56,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 4: Introducción a CSS (12 minutos)
 
 - **Descripción**: Dale ropa a tu página con colores, fuentes, bordes y espacios.
-- **Enlace**: [Ver la lección](PEGAR_YOUTUBE_L4)
+- **Enlace**: [Ver la lección](https://youtu.be/KJwugyZXz8w)
 - **Conceptos clave**:
   - Una regla de CSS tiene selector, propiedad y valor, como `h1 { color: purple; }`.
   - Las clases se llaman con un punto, como `.foto`.
   - Usa `color`, `background-color`, `font-family` y `font-size` para colores y letras.
   - Usa `border`, `border-radius`, `text-align`, `padding` y `margin` para bordes, centrado y espacio.
-- **Práctica**: [Aplicar estilo con un clic](PEGAR_PEN_L4) 👉 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/) 👉 **¡No es necesario registrarse!**
 
 ---
 
